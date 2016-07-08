@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="patron2" size="600.000000 433.390106" />
+    <ImageTarget name="replay" size="500.000000 450.906342" />
+    <ImageTarget name="next" size="120.000000 118.857140" />
+    <ImageTarget name="play" size="200.000000 196.261688" />
+    <ImageTarget name="pausa" size="200.000000 192.694061" />
+  </Tracking>
+</QCARConfig>
